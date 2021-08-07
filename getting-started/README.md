@@ -2,4 +2,4 @@
 
 [Table of Contents](toc.md)
 
-* [Chapter 1](ch1.md)
+* [Chapter 1: Language Fundamentals](ch1.md)
